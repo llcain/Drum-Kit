@@ -1,2 +1,3 @@
 Google - red heart emoji - https://emojipedia.org/red-heart/
-Google - drum emoji - 
+Google - drum emoji - https://unicode-table.com/en/1F941/
+Google - how to change repository from private to public - https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility
