@@ -1,3 +1,6 @@
 Google - red heart emoji - https://emojipedia.org/red-heart/
 Google - drum emoji - https://unicode-table.com/en/1F941/
 Google - how to change repository from private to public - https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility
+Google - play sound javascript - https://stackoverflow.com/questions/9419263/how-to-play-audio
+Google - new audio javascript - https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement
+Google - background image button css - https://stackoverflow.com/questions/2444894/how-to-set-background-image-in-submit-button
